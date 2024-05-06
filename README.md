@@ -9,4 +9,4 @@ SM-Stores, a leading retail company, is embarking on a strategic initiative to g
 The primary objective of this project is to equip SM-Stores with actionable insights to enhance their retail operations and customer experience.
 
 ## Project Source
-The dataset used in this project was project was provided by 10Alytics. The dataset contains a collection of features extracted from the SM_Stores, includes various fields such as the Orders table which comprises of 
+The dataset used in this project was project was provided by 10Alytics. The dataset contains a collection of features extracted from the SM-Stores, includes various sectors such as the Orders table which comprises of (OrderID, Orderdate, PropertyID, ProductID, Quantity), Products table which consists of (ProductID, ProductName, Productcategory, Price) and Property-Info table which contains(PropID, PropertyCity, PropertyState).
